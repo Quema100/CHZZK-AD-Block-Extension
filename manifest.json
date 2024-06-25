@@ -1,6 +1,6 @@
 {
     "manifest_version" :  3,
-    "name" : "Chzzk adblock",
+    "name" : "Chzzk Ad Block",
     "description" :"extensions by Quema",
     "version" : "0.0.1",
     "content_scripts": [
